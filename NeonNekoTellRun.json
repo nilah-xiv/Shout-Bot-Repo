@@ -1,0 +1,22 @@
+{
+  "Author": "Nilah Valoryn",
+  "Name": "Shout-Bot",
+  "InternalName": "Shout-Bot",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Automatically shout/yell a custom macro across all worlds and major cities using Lifestream and ECommons. Supports all regions (NA/EU/JP/OCE), auto-resume, zone detection, and comprehensive error handling.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "utility",
+    "social",
+    "automation"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 2,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "Traverse worlds and advertise without the Excel madness.",
+  "AcceptsFeedback": true
+}
