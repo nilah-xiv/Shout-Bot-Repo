@@ -5,7 +5,7 @@
   "AssemblyVersion": "1.0.0.0",
   "Description": "Automatically shout/yell a custom macro across all worlds and major cities using Lifestream and ECommons. Supports all regions (NA/EU/JP/OCE), auto-resume, zone detection, and comprehensive error handling.",
   "ApplicableVersion": "any",
-  "RepoUrl": "",
+  "RepoUrl": "https://github.com/nilah-xiv/Shout-Bot-Repo",
   "Tags": [
     "utility",
     "social",
