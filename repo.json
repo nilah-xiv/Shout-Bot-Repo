@@ -2,7 +2,7 @@
   {
     "Author": "Nilah Valoryn",
     "Name": "Shout-Bot",
-    "InternalName": "Shout-Bot",
+    "InternalName": "ShoutBot",
     "AssemblyVersion": "1.0.0.0",
     "Description": "Automatically shout/yell a custom macro across all worlds and major cities using Lifestream and ECommons. Supports all regions (NA/EU/JP/OCE), auto-resume, zone detection, and comprehensive error handling.",
     "ApplicableVersion": "any",
@@ -11,7 +11,7 @@
     "Punchline": "EZ Shouts",
     "Changelog": "-Initial Commit \n- Love, ",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/nilah-xiv/Shout-Bot-Repo/main/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/nilah-xiv/Shout-Bot/main-Repo/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/nilah-xiv/Shout-Bot-Repo/main/latest.zip",
     "IconUrl": "",
     "ImageUrls": [],
     "IsHide": false,
