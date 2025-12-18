@@ -2,7 +2,7 @@
   "Author": "Nilah Valoryn",
   "Name": "Shout-Bot",
   "InternalName": "ShoutBot",
-  "AssemblyVersion": "1.2.0.0",
+  "AssemblyVersion": "1.3.0.0",
   "Description": "Automatically shout/yell a custom macro across all worlds and major cities using Lifestream and ECommons. Supports all regions (NA/EU/JP/OCE), auto-resume, zone detection, and comprehensive error handling.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://raw.githubusercontent.com/nilah-xiv/Shout-Bot-Repo/refs/heads/main/repo.json",
@@ -11,7 +11,7 @@
     "social",
     "automation"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 2,
   "LoadSync": false,
   "CanUnloadAsync": false,
