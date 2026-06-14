@@ -2,8 +2,8 @@
   "Author": "Nilah Valoryn",
   "Name": "Shout-Bot",
   "InternalName": "ShoutBot",
-  "AssemblyVersion": "1.7.0.0",
-  "Description": "ShoutBot - automatically shout/yell a custom macro across all worlds and major cities using Lifestream and ECommons.",
+  "AssemblyVersion": "1.7.1.0",
+  "Description": "Shoutot - automatically shout/yell a custom macro across all worlds and major cities using Lifestream and ECommons.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://raw.githubusercontent.com/nilah-xiv/Shout-Bot-Repo/refs/heads/main/repo.json",
   "Tags": [
